@@ -12,9 +12,10 @@ C = normalizing constant
 ## Getting started
 
  1. Install the required libraries and import them.
- 2. Get the bounding box of the location area. You may use this [tool](https://boundingbox.klokantech.com/) to speed up the process.
- 3. Determine which place category/amenity you want. Choose from the [list of amenities](https://wiki.openstreetmap.org/wiki/Key:amenity) supported by OpenStreetMap.  
- 4. Provide the considered maximum distance in meters. (Ex. 500 means everything within the 500m range will only be considered)
+ 2. Change `filepath` accordingly.
+ 3. Get the bounding box of the location area. You may use this [tool](https://boundingbox.klokantech.com/) to speed up the process.
+ 4. Determine which place category/amenity you want. Choose from the [list of amenities](https://wiki.openstreetmap.org/wiki/Key:amenity) supported by OpenStreetMap.  
+ 5. Provide the considered maximum distance in meters. (Ex. 500 means everything within the 500m range will only be considered)
 
 ## Required libraries
 
